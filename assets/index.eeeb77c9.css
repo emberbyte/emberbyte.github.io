@@ -1,0 +1,1 @@
+.container{display:flex;flex-direction:row;min-height:800px}.container .line{width:1px;background:#e2e2e0}.container .menu{width:150px;margin-top:150px}.container .content{display:flex;align-items:center;justify-content:center;flex:1}

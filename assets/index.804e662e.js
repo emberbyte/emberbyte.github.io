@@ -1,0 +1,1 @@
+import{r as e}from"./vendor.2610a06a.js";export default()=>e.createElement("div",{className:"container"},e.createElement("div",{className:"menu"},"menu"),e.createElement("div",{className:"content"},"content"));
